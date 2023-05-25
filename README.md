@@ -2,4 +2,4 @@
 
 ## Gravando mudanças no repositório
 
-# Salvadndo moditicações no Git
+### Salvadndo alterações no Git
